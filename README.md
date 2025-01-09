@@ -20,3 +20,5 @@ We aim to create a focused and distraction-free web application tailored for cur
 
 ## Objective:
 Our goal is to create a YouTube-like platform where users can access and consume content in a highly personalized and distraction-free environment. By limiting their exposure to unnecessary or unrelated material, we enhance user focus and provide a streamlined experience.
+
+## for first poc only 
